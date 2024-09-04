@@ -3,7 +3,6 @@
     Topic: Eratosthenes algorithm
 """
 
-
 def isWinner(x, nums):
     """
     Determines the winner in the prime game using
